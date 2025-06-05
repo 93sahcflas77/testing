@@ -1,5 +1,5 @@
-@import "tailwindcss";
+@import 'tailwindcss';
 
-h1{
-    @apply bg-amber-300
+h1 {
+    @apply bg-amber-300;
 }
