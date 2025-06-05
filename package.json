@@ -11,7 +11,7 @@
         "lint:fix": "eslint . --fix",
         "format": "prettier --write .",
         "format:check": "prettier --check .",
-        "lint:stylelint": "stylelint **/*.css",
+        "lint:stylelint": "stylelint \"**/*.css\" --fix",
         "preview": "vite preview"
     },
     "dependencies": {
