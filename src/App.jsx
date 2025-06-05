@@ -15,6 +15,7 @@ function App() {
                  red-800">
                 hello world
             </h1>
+
             <h2>hiii</h2>
         </>
     )
