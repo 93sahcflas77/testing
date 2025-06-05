@@ -6,7 +6,6 @@ import './App.css'
 function App() {
     const a = 10
     let b = 10
-    let n = 15
 
     return (
         <>
