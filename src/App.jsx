@@ -12,7 +12,8 @@ function App() {
             <h1
                 className="bg-    
                 
-                 red-800">
+                 red-800"
+                style={{ color: 'yellow' }}>
                 hello world
             </h1>
 
