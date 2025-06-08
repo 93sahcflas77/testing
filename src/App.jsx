@@ -7,6 +7,8 @@ function App() {
     const a = 10
     let b = 10
 
+    // console.log(import.meta.env.VITE_ENV);
+
     return (
         <>
             <h1
