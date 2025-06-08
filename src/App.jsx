@@ -4,13 +4,20 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-    const [count, setCount] = useState(0)
-
     const a = 10
+    let b = 10
+
+    // console.log(import.meta.env.VITE_ENV);
 
     return (
         <>
-            <h1 className='bg-red-800'>hello world</h1>
+            <h1
+                className="bg-red-800"
+                style={{ color: 'yellow' }}>
+                hello world
+            </h1>
+
+            <h2>hiii</h2>
         </>
     )
 }
